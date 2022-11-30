@@ -50,7 +50,7 @@ python main.py
 
 ## Quantization
 
-- This project use [QAT Quantizer](https://nni.readthedocs.io/en/stable/reference/compression/quantizer.html#qat-quantizer) Search Stategy, other quantizer can be found [here](https://nni.readthedocs.io/en/stable/compression/quantizer.html)
+- This project use [QAT Quantizer](https://nni.readthedocs.io/en/stable/reference/compression/quantizer.html#qat-quantizer) for quantization, other quantizer can be found [here](https://nni.readthedocs.io/en/stable/compression/quantizer.html)
 
 Start Quantizing
 
