@@ -38,6 +38,36 @@ cd nni
 python setup.py develop
 ```
 
+## Data
+
+Data in this format
+
+``` folder
+|-- Bearing-Dataset-16x16-noise
+    |-- train
+    |   |-- B
+    |   |   |-- B001.mat
+    |   |   |-- B001.npy   
+    |   |   |-- B001.jpg
+    |   |   `-- ...
+    |   |-- I
+    |   |-- L
+    |   |-- N
+    |   `-- O
+    `-- test
+        |   |-- B
+        |   |-- B418.mat
+        |   |-- B418.npy   
+        |   |-- B418.jpg
+        |   `-- ...
+        |-- I
+        |-- L
+        |-- N
+        `-- O
+```
+
+with `.mat` is temperature generate with MATLAB, `.npy` is temperature convert to numpy format, and `.jpg` is image of bearing signal 
+
 ## NAS
 
 - This project use [Random](https://nni.readthedocs.io/en/stable/reference/nas/strategy.html#nni.retiarii.strategy.Random) Search Stategy, other stategies can be found [here](https://nni.readthedocs.io/en/stable/nas/exploration_strategy.html)
