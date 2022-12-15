@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ``` terminal
 docker pull msranni/nni
+docker images # to see docker image id
 docker run -it --gpus all --name nni [DOCKER IMAGE]
 ```
 
