@@ -90,7 +90,7 @@ Start Quantizing
 python quantization.py
 ```
 
-If you want to quantize multiple times, modify number of times in `quanti.sh` and run
+If you want to quantize multiple times, modify number of times in `quantization.sh` and run
 
 ``` terminal
 bash quantization.sh
