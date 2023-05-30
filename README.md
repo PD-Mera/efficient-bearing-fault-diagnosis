@@ -1,6 +1,6 @@
 # Effecient Bearing Fault Diagnosis
 
-Paper: https://iopscience.iop.org/article/10.1088/2631-8695/acd625/meta
+[[Paper](https://iopscience.iop.org/article/10.1088/2631-8695/acd625/meta)]
 
 ## Dependencies and Installation
 
