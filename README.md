@@ -14,7 +14,14 @@ Let me know if your environments can run this repo
 ### Install requirements
 
 ``` bash
+git clone https://github.com/PD-Mera/Efficient-Bearing-Fault-Diagnosis
 pip install -r requirements.txt
+```
+
+If you meet any error when install environments, checkout to this commit
+
+``` bash
+git checkout efac0aa42ce7dee43a0cd895f270d316bca74543
 ```
 
 ### If you want to use Docker
