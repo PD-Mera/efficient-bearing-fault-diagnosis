@@ -109,7 +109,7 @@ pkginfo==1.8.3
 platformdirs==2.5.4
 portalocker==2.5.1
 prettytable==3.4.1
-protobuf==3.19.4
+protobuf==3.19.5
 psutil==5.9.2
 pyarrow==3.0.0
 pyasn1==0.4.8
