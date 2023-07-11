@@ -98,7 +98,7 @@ nvidia-cudnn-cu11==8.6.0.163
 nvidia-ml-py==11.515.75
 nvidia-tensorrt==8.4.1.5
 oauthlib==3.2.0
-onnx==1.12.0
+onnx==1.13.0
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.1
